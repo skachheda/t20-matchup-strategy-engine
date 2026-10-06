@@ -1,0 +1,35 @@
+{
+  "info": {
+    "match_type": "T20",
+    "teams": ["Chennai Super Kings", "Mumbai Indians"]
+  },
+  "innings": [
+    {
+      "team": "Chennai Super Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            { "batter": "MS Dhoni", "bowler": "JJ Bumrah", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "MS Dhoni", "bowler": "JJ Bumrah", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "V Kohli", "bowler": "JJ Bumrah", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "V Kohli", "bowler": "JJ Bumrah", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "V Kohli", "bowler": "JJ Bumrah", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "V Kohli", "bowler": "JJ Bumrah", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "player_out": "V Kohli", "kind": "bowled" }] }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            { "batter": "MS Dhoni", "bowler": "JJ Bumrah", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "MS Dhoni", "bowler": "JJ Bumrah", "runs": { "batter": 2, "extras": 0, "total": 2 } },
+            { "batter": "MS Dhoni", "bowler": "JJ Bumrah", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "MS Dhoni", "bowler": "JJ Bumrah", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "RA Jadeja", "bowler": "JJ Bumrah", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "RA Jadeja", "bowler": "JJ Bumrah", "runs": { "batter": 4, "extras": 0, "total": 4 } }
+          ]
+        }
+      ]
+    }
+  ]
+}
